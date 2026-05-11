@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sena👋
 
-<!--
-**Senadag-sec/Senadag-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Student
 
-Here are some ideas to get you started:
+I am interested in cybersecurity, ethical hacking, and network security.  
+Currently improving my skills through hands-on projects and cybersecurity labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Linux
+- Wireshark
+- Nmap
+- VirtualBox
+- Networking Fundamentals
+
+## Current Focus
+- Ethical Hacking
+- Network Analysis
+- Linux Fundamentals
+- Cybersecurity Projects
+
+## Projects
+- Python Port Scanner
+- Simple Log Analyzer
+- Wireshark Network Analysis
+- Linux Command Notes
