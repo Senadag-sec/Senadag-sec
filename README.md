@@ -23,4 +23,4 @@ Currently improving my skills through hands-on projects and cybersecurity labs.
 - Python Port Scanner
 - Simple Log Analyzer
 - Wireshark Network Analysis
-- Linux Command Notes
+- Nmap Basic Scanning
